@@ -1,0 +1,2 @@
+Asu loo
+Bosok matamu
