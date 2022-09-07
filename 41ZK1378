@@ -1,0 +1,37 @@
+🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+
+$ termux-setup-storage  
+   
+• Enter  
+   
+• Ketik y Atau Pilih Izinkan  
+
+$ termux-change-repo
+   
+• Pilih Game Repository
+      - Klik OK
+   
+• Pilih Mirror By Grimler
+      - Klik OK
+
+$ pkg install python
+
+$ pkg install git
+
+$ pip install requests
+
+$ pip install mechanize
+
+$ pip install bs4
+
+$ pip install futures
+
+$ git clone https://github.com/41ZK1378/widiya   
+
+$ cd widiya
+
+$ python run.py
+
+<center> 
+    <img src="https://c.top4top.io/p_2276s0fez9.jpg" width="400px" <="" img=""> 
+   </center>
